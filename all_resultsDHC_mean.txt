@@ -1,0 +1,2 @@
+German,True,video,True,False,False,ccc_2,1.0,False,False,False,34,0.001,False,[0, 15],[0, 20],[0, 30],[1, 80],False,False,False,False,False,0.0,linear,ccc_2,2.8,V,funcegem,faus,0.1,0,False,2000,[743],results,0.515,0.138,0.279,postproc,0.517,0.142,0.282
+[0, 3, 5, 6, 7, 9, 36],German,True,video,True,False,False,ccc_2,1.0,False,False,False,34,0.001,False,[0, 15],[0, 20],[0, 30],[1, 80],False,False,False,False,False,0.4,linear,ccc_2,2.8,V,funcegem,faus,0.1,0,False,2000,[1932],results,0.57,0.595,0.379,postproc,0.57,0.588,0.384

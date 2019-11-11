@@ -1,0 +1,20 @@
+    *****   5    - layer1 =
+    *       1    - layer2
+    *20     20   - layer2 =
+    *20     5+19 - layer1    
+
+    *****   20   - layer2 =
+    *       1    - layer3
+    *30     30   - layer3 =
+    *20     20+29- layer2    
+
+    *****   30   - layer3 =
+    *       1    - layer4
+    *30     50   - layer4 =
+    *20     30+49- layer3
+            20+78- layer2    
+            5+97   layer1/
+
+50 of 4th layer = 50 of 3rd layer 
+But 30 of 3rd layer = 30 of 2nd layer 
+so  50 of 3rd layer = 40 of 2nd layer + 10  

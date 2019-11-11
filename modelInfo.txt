@@ -1,0 +1,52 @@
+(base) vedhas@vedhas-Inspiron-7577:~/workspace/is2019_recurrence$ python deepemotion_keras.py 
+Using TensorFlow backend.
+Loading SEWA database ...
+/home/vedhas/.local/lib/python2.7/site-packages/scipy/signal/signaltools.py:2223: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  Y[sl] = X[sl]
+/home/vedhas/.local/lib/python2.7/site-packages/scipy/signal/signaltools.py:2225: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  Y[sl] = X[sl]
+ ... done
+Shifting labels to the front for 4.0 seconds.
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_1 (InputLayer)         (None, 1768, 47)          0         
+_________________________________________________________________
+conv1d_1 (Conv1D)            (None, 1768, 200)         47200     
+_________________________________________________________________
+activation_1 (Activation)    (None, 1768, 200)         0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 1768, 200)         0         
+_________________________________________________________________
+conv1d_2 (Conv1D)            (None, 1768, 64)          256064    
+_________________________________________________________________
+activation_2 (Activation)    (None, 1768, 64)          0         
+_________________________________________________________________
+dropout_2 (Dropout)          (None, 1768, 64)          0         
+_________________________________________________________________
+conv1d_3 (Conv1D)            (None, 1768, 32)          61472     
+_________________________________________________________________
+activation_3 (Activation)    (None, 1768, 32)          0         
+_________________________________________________________________
+dropout_3 (Dropout)          (None, 1768, 32)          0         
+_________________________________________________________________
+conv1d_4 (Conv1D)            (None, 1768, 32)          51232     
+_________________________________________________________________
+activation_4 (Activation)    (None, 1768, 32)          0         
+_________________________________________________________________
+dropout_4 (Dropout)          (None, 1768, 32)          0         
+_________________________________________________________________
+time_distributed_1 (TimeDist (None, 1768, 1)           33        
+_________________________________________________________________
+activation_5 (Activation)    (None, 1768, 1)           0         
+=================================================================
+Total params: 416,001
+Trainable params: 416,001
+Non-trainable params: 0
+_________________________________________________________________
+None
+Iter: 1
+Epoch 1/1
+2019-10-13 02:35:16.973428: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-10-13 02:35:17.024613: I tensorflow/core/common_runtime/process_util.cc:69] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+
