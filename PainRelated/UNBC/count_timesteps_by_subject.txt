@@ -1,0 +1,228 @@
+aa048t2aaunaff.csv:	111 /	0
+aa048t2aeaff.csv:	174 /	37
+aa048t2aeunaff.csv:	48 /	0
+aa048t2afaff.csv:	162 /	0
+aa048t2afunaff.csv:	96 /	0
+aa048t2aiaff.csv:	231 /	47
+aa048t2aiunaff.csv:	72 /	0
+
+ak064t1aaaff.csv:	397 /	66
+ak064t1aeunaff.csv:	308 /	16
+ak064t1afaff.csv:	337 /	16
+ak064t1afunaff.csv:	142 /	0
+ak064t1aiaff.csv:	263 /	62
+ak064t1aiunaff.csv:	165 /	0
+
+bg096t1aaaff.csv:	330 /	0
+bg096t1aeaff.csv:	285 /	131
+bg096t1aeunaff.csv:	217 /	0
+bg096t1afaff.csv:	285 /	22
+bg096t2aaaff.csv:	232 /	28
+bg096t2aaunaff.csv:	225 /	0
+bg096t2aeunaff.csv:	225 /	0
+bg096t2afaff.csv:	307 /	0
+bg096t2afunaff.csv:	255 /	0
+
+bm049t1aaaff.csv:	495 /	292
+bm049t1afaff.csv:	345 /	0
+bm049t2aaaff.csv:	330 /	109
+bm049t2aaunaff.csv:	315 /	0
+bm049t2aeaff.csv:	427 /	13
+bm049t2aeunaff.csv:	233 /	0
+bm049t2afaff.csv:	352 /	110
+bm049t2afunaff.csv:	255 /	0
+
+bn080t1aaaff.csv:	382 /	327
+bn080t1aaunaff.csv:	240 /	134
+bn080t1aeaff.csv:	352 /	121
+bn080t1aeunaff.csv:	203 /	121
+bn080t1afaff.csv:	382 /	175
+bn080t1afunaff.csv:	247 /	66
+bn080t1aiunaff.csv:	232 /	198
+
+ch092t1aiaff.csv:	465 /	116
+ch092t2aaaff.csv:	197 /	174
+ch092t2aeaff.csv:	225 /	0
+ch092t2afaff.csv:	240 /	0
+ch092t2aiaff.csv:	375 /	181
+
+dn124t1aaaff.csv:	233 /	175
+dn124t1aaunaff.csv:	127 /	0
+dn124t1aeaff.csv:	360 /	276
+dn124t1aeunaff.csv:	90 /	0
+dn124t1afaff.csv:	255 /	150
+dn124t1afunaff.csv:	210 /	0
+dn124t1aiaff.csv:	420 /	395
+
+dr052t1aeaff.csv:	374 /	18
+dr052t1aeunaff.csv:	165 /	0
+dr052t1afaff.csv:	211 /	0
+dr052t1afunaff.csv:	168 /	0
+dr052t1aiaff.csv:	468 /	47
+dr052t1aiunaff.csv:	135 /	0
+dr052t2aaaff.csv:	226 /	0
+dr052t2aeaff.csv:	235 /	11
+dr052t2aeunaff.csv:	159 /	0
+dr052t2aiaff.csv:	468 /	30
+
+fn059t2afunaff.csv:	405 /	0
+fn059t2aiaff.csv:	368 /	133
+
+gf097t1aaaff.csv:	518 /	96
+gf097t1aaunaff.csv:	255 /	9
+gf097t1aeaff.csv:	225 /	0
+gf097t1aeunaff.csv:	300 /	0
+gf097t1afaff.csv:	247 /	43
+gf097t1afunaff.csv:	180 /	0
+gf097t1aiaff.csv:	345 /	0
+gf097t1aiunaff.csv:	240 /	0
+gf097t2aaunaff.csv:	203 /	0
+gf097t2aeunaff.csv:	157 /	0
+gf097t2afaff.csv:	187 /	0
+gf097t2afunaff.csv:	165 /	0
+gf097t2aiaff.csv:	150 /	0
+gf097t2aiunaff.csv:	188 /	0
+
+hs107t1aeaff.csv:	225 /	8
+hs107t1aeunaff.csv:	225 /	0
+hs107t1afaff.csv:	285 /	212
+hs107t1afunaff.csv:	263 /	15
+hs107t2aaaff.csv:	412 /	207
+hs107t2aaunaff.csv:	338 /	0
+hs107t2aeunaff.csv:	143 /	0
+hs107t2aiunaff.csv:	150 /	0
+
+ib109t1aaaff.csv:	247 /	0
+ib109t1aeaff.csv:	315 /	150
+ib109t1aeunaff.csv:	218 /	0
+ib109t1afaff.csv:	255 /	0
+ib109t1afunaff.csv:	188 /	0
+ib109t1aiaff.csv:	322 /	29
+ib109t1aiunaff.csv:	202 /	0
+ib109t2aeaff.csv:	158 /	0
+
+jh043t1aeaff.csv:	103 /	35
+jh043t1afaff.csv:	161 /	0
+jh043t2aaaff.csv:	163 /	0
+jh043t2aaunaff.csv:	119 /	0
+jh043t2aeaff.csv:	167 /	57
+jh043t2aeunaff.csv:	100 /	0
+jh043t2afaff.csv:	124 /	0
+jh043t2afunaff.csv:	84 /	0
+jh043t2aiunaff.csv:	99 /	0
+
+jh123t1aaunaff.csv:	68 /	0
+jh123t1aeaff.csv:	359 /	226
+jh123t1aeunaff.csv:	195 /	0
+jh123t1afaff.csv:	180 /	0
+jh123t2aaaff.csv:	186 /	0
+jh123t2aeaff.csv:	195 /	135
+
+jk103t1aaaff.csv:	233 /	150
+jk103t1aaunaff.csv:	150 /	0
+jk103t1aeaff.csv:	277 /	111
+jk103t1aeunaff.csv:	195 /	0
+jk103t1afaff.csv:	225 /	41
+jk103t1afunaff.csv:	165 /	0
+jk103t1aiaff.csv:	510 /	143
+jk103t1aiunaff.csv:	225 /	0
+jk103t2aaaff.csv:	217 /	178
+jk103t2aaunaff.csv:	105 /	0
+jk103t2aeaff.csv:	232 /	15
+jk103t2aeunaff.csv:	210 /	0
+jk103t2afaff.csv:	210 /	171
+jk103t2afunaff.csv:	135 /	0
+jk103t2aiaff.csv:	300 /	25
+jk103t2aiunaff.csv:	203 /	0
+
+jl047t1aaaff.csv:	245 /	26
+jl047t1aaunaff.csv:	154 /	0
+jl047t1afunaff.csv:	139 /	0
+jl047t1aiaff.csv:	465 /	38
+jl047t1aiunaff.csv:	197 /	0
+jl047t2aeunaff.csv:	180 /	0
+jl047t2afaff.csv:	228 /	0
+
+jy115t1aaaff.csv:	412 /	15
+jy115t1aaunaff.csv:	173 /	0
+jy115t1aeaff.csv:	292 /	55
+jy115t2aaaff.csv:	225 /	30
+jy115t2aeaff.csv:	225 /	15
+
+kz120t1aaaff.csv:	382 /	29
+kz120t1aeaff.csv:	292 /	0
+kz120t1afunaff.csv:	210 /	0
+kz120t2aaaff.csv:	135 /	47
+kz120t2aaunaff.csv:	75 /	0
+kz120t2aeaff.csv:	180 /	0
+kz120t2aeunaff.csv:	157 /	0
+kz120t2afunaff.csv:	135 /	0
+
+ll042t1aaaff.csv:	683 /	108
+ll042t1aaunaff.csv:	187 /	0
+ll042t1aeunaff.csv:	155 /	0
+ll042t1afaff.csv:	350 /	102
+ll042t1afunaff.csv:	128 /	0
+ll042t1aiaff.csv:	168 /	29
+ll042t1aiunaff.csv:	143 /	0
+ll042t2afaff.csv:	320 /	0
+
+mg066t1aaaff.csv:	405 /	213
+mg066t1aeaff.csv:	375 /	244
+mg066t1afaff.csv:	450 /	32
+mg066t1afunaff.csv:	157 /	0
+mg066t2aaunaff.csv:	172 /	0
+mg066t2aeaff.csv:	262 /	17
+mg066t2aeunaff.csv:	195 /	0
+mg066t2afaff.csv:	458 /	6
+
+mg101t1aiaff.csv:	615 /	0
+mg101t2aaaff.csv:	347 /	0
+mg101t2aaunaff.csv:	225 /	0
+mg101t2aeaff.csv:	300 /	0
+mg101t2aeunaff.csv:	261 /	0
+mg101t2afaff.csv:	270 /	0
+mg101t2afunaff.csv:	138 /	0
+mg101t2aiaff.csv:	438 /	0
+mg101t2aiunaff.csv:	225 /	0
+
+nm106t1aaaff.csv:	338 /	83
+nm106t1aaunaff.csv:	210 /	0
+nm106t1aeaff.csv:	233 /	0
+nm106t1aeunaff.csv:	173 /	0
+nm106t1afaff.csv:	352 /	259
+nm106t1afunaff.csv:	120 /	0
+nm106t1aiunaff.csv:	217 /	0
+nm106t2aaaff.csv:	240 /	175
+nm106t2aaunaff.csv:	142 /	0
+nm106t2aeaff.csv:	210 /	0
+nm106t2aeunaff.csv:	98 /	0
+nm106t2afunaff.csv:	150 /	0
+nm106t2aiaff.csv:	165 /	0
+nm106t2aiunaff.csv:	150 /	0
+
+th108t1aaaff.csv:	264 /	0
+th108t1aaunaff.csv:	150 /	0
+th108t1aeaff.csv:	285 /	151
+th108t1afaff.csv:	368 /	111
+th108t1afunaff.csv:	112 /	0
+th108t1aiaff.csv:	352 /	0
+th108t1aiunaff.csv:	194 /	0
+th108t2aaunaff.csv:	165 /	0
+th108t2aeaff.csv:	262 /	70
+th108t2afaff.csv:	277 /	123
+th108t2afunaff.csv:	127 /	0
+th108t2aiaff.csv:	195 /	0
+th108t2aiunaff.csv:	157 /	0
+
+tv095t1afaff.csv:	300 /	300
+tv095t2aeunaff.csv:	217 /	0
+tv095t2afaff.csv:	292 /	198
+
+vw121t1aaaff.csv:	180 /	40
+vw121t1aeaff.csv:	203 /	0
+vw121t1aiaff.csv:	135 /	0
+
+total               [48398.  8369.]
+[683. 395.]
+[48.  0.]
