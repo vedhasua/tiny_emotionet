@@ -15,15 +15,37 @@ BIOVID Heat Pain Database [here](http://www.iikt.ovgu.de/BioVid.print)
 ### Training and testing the models:
 1. Training the model to map the FAU features to the Affect labels (SEWA):
     
-    `deepemotion_keras_DHC.py`:  Training done on German training split, testing on the entire Chinese and Hungarian splits + the German testing split
+    `deepemotion_keras_DHC.py`
+    
+    Training split: 34 German subjects
+    
+    Validation split: 14 German subjects
+    
+    Testing splits: 16 German, 66 Hungarian, 70 Chinese subjects
     
 2. Training the model to map the FAU features to the PSPI labels (UNBC):
 
     `run_regression.py`
 
+    Training split: 9 subjects
+    
+    Validation split: 7 subjects
+    
+    Testing splits: 9 subjects
+
+
+
 3. Training the model to map the FAU features to the Affect labels (BioVid):
 
     `run_regression.py`
+
+    Training split: 29 subjects
+    
+    Validation split: 29 subjects
+    
+    Testing splits: 29 subjects
+
+
 
 ### Feature attribution computation, and the time-series visualisation:
 
