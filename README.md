@@ -1,6 +1,16 @@
 # TINY EMOTIONET
 
-## Primary scripts for running experiments
+## Obtaining the datasets:
+
+You can submit a request for
+
+SEWA / The AVEC 2019 Cross-cultural Emotion Sub-Challenge (CES) Database [here](https://sites.google.com/view/avec2019/home#h.p_-h7OzDVf_pfv) 
+
+UNBC Mc-Master Shoulder Pain Archive [here](https://www.pitt.edu/~emotion/um-spread.htm)
+
+BIOVID Heat Pain Database [here](http://www.iikt.ovgu.de/BioVid.print)
+
+## Primary scripts for running experiments:
 
 ### Training and testing the models:
 1. Training the model to map the FAU features to the Affect labels (SEWA):
