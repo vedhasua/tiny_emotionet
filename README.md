@@ -1,4 +1,4 @@
-# tiny_emotionet
+# TINY EMOTIONET
 
 ## Primary scripts for running experiments
 
