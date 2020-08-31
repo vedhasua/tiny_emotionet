@@ -1,5 +1,9 @@
 # TINY EMOTIONET
 
+**What it is about:**
+
+The shallowest-ever (and ever possible) CNN topology, an interpretable/white-box minimalist AI for time- and value-continuous affect and pain prediction. 
+
 **Obtaining the datasets:**
 
 You can submit a request for:
@@ -71,7 +75,8 @@ Pandit, Vedhas, Maximilian Schmitt, Nicholas Cummins, and Björn Schuller. "[I s
   number={6},
   pages={102347},
   year={2020},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi = {10.1016/j.ipm.2020.102347}
 }
 ```
 **Additional Notes**: 
